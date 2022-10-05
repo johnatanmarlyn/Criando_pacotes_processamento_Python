@@ -1,4 +1,4 @@
-# Projeto 02 - DIO / Unimed
+# DIO / Unimed
 
 Descrição
 Esse é um projeto de teste para utilização de pacotes para o BootCamp DIO/Unimed para Ciência de Dados.
@@ -17,9 +17,3 @@ pip install package_name
 from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
-
-## Author
-Igor Mata
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
